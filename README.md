@@ -4,10 +4,12 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou foc
 
 <div>
 
-💻 Desenvolvedor Java Back-End <br>
-🌱 Estudando Spring Boot e APIs REST <br>
-🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
-🚀 Em busca da primeira oportunidade como desenvolvedor
+### 🚀 Foco atual
+
+💻 Desenvolvendo projetos em **Java**  
+🌱 Aprendendo **Spring Boot e APIs REST**  
+🗄️ Trabalhando com **banco de dados e persistência de dados**  
+📚 Evoluindo constantemente em **boas práticas de desenvolvimento**
 
 </div>
 
