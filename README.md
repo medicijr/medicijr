@@ -1,10 +1,12 @@
-👨‍💻 Olá! Eu sou Medici.
+### 👨‍💻 Bem-vindo ao meu perfil! Eu me chamo Medici.
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou focado em **desenvolvimento Back-End com Java**. Tenho experiência profissional na área **contábil** e estou em **transição de carreira para tecnologia**, estudando **Java, Spring Boot e APIs REST** em busca da minha primeira oportunidade como desenvolvedor.
 
 <div>
 
 💻 Desenvolvedor Java Back-End <br>
 🌱 Estudando Spring Boot e APIs REST <br>
-🎓 Análise e Desenvolvimento de Sistemas <br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
 🚀 Em busca da primeira oportunidade como desenvolvedor
 
 </div>
@@ -22,9 +24,9 @@
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 
 </div>
-  
-  ##
- 
+
+##
+
 <div align="center"> 
   <a href="https://www.instagram.com/medicijr_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -43,4 +45,3 @@
 </picture>
 
 </div>
-
