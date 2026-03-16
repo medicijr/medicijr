@@ -1,6 +1,6 @@
 👨‍💻 Olá! Eu sou Medici.
 
-<div align="center">
+<div>
 
 💻 Desenvolvedor Java Back-End <br>
 🌱 Estudando Spring Boot e APIs REST <br>
