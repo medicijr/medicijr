@@ -19,26 +19,19 @@ Desenvolvedor Back-End Java • Spring Boot • APIs REST
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img height="40" width="50" title="Java"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img height="40" width="50" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
-  <img height="40" width="50" title="Spring Boot"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img height="40" width="50" title="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 
-  <img height="40" width="50" title="MySQL"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img height="40" width="50" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 
-  <img height="40" width="50" title="Git"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img height="40" width="50" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 
-  <img height="40" width="50" title="Apache Maven"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
+  <img height="40" width="50" title="Apache Maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"/>
 
-  <img height="40" width="50" title="Hibernate"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
+  <img height="40" width="50" title="Hibernate" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>
 
-  <img height="40" width="50" title="IntelliJ IDEA"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+  <img height="40" width="50" title="IntelliJ IDEA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
 </p>
 
 ---
