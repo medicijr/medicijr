@@ -18,7 +18,18 @@ Desenvolvedor Back-End Java • Spring Boot • APIs REST
 
 ### 🚀 Tecnologias e Ferramentas
 
-<p align="center"><img height="40" width="50" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;<img height="40" width="50" title="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;<img height="40" width="50" title="Quarkus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg"/>&nbsp;<img height="40" width="50" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>&nbsp;<img height="40" width="50" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;<img height="40" width="50" title="Apache Maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"/>&nbsp;<img height="40" width="50" title="Hibernate" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>&nbsp;<img height="40" width="50" title="IntelliJ IDEA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/></p>
+<table>
+  <tr>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"/></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot"/></td>
+    <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" title="Quarkus"/></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"/></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"/></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Maven"/></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" title="Hibernate"/></td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA"/></td>
+  </tr>
+</table>
 
 ---
 
