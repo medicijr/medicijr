@@ -27,6 +27,8 @@ Desenvolvedor Back-End Java • Spring Boot • APIs REST
     <td align="center"><img height="40" src="https://skillicons.dev/icons?i=maven" title="Maven"/></td>
     <td align="center"><img height="40" src="https://skillicons.dev/icons?i=hibernate" title="Hibernate"/></td>
     <td align="center"><img height="40" src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/></td>
+    <td align="center"><img height="40" src="https://skillicons.dev/icons?i=docker" title="Docker"/></td>
+    <td align="center"><img height="40" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/></td>
   </tr>
 </table>
 
