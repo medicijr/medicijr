@@ -14,13 +14,28 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou foc
 </div>
 
 <br>
-<div align="center">
+<p align="center">
+  <img height="30" width="40" title="Java"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
-### 🚀 Tecnologias
+  <img height="30" width="40" title="Spring Boot"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,hibernate,idea" />
+  <img height="30" width="40" title="MySQL"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
-</div>
+  <img height="30" width="40" title="Git"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+
+  <img height="30" width="40" title="Apache"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
+
+  <img height="30" width="40" title="Hibernate"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
+
+  <img height="30" width="40" title="IntelliJ IDEA"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+</p>
 
 ##
 
