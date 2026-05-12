@@ -1,43 +1,60 @@
-### 👨‍💻 Bem-vindo ao meu perfil! Eu me chamo Medici.
+<h1 align="center">👨‍💻 Olá, eu sou Medici</h1>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou focado em **desenvolvimento Back-End com Java**. Tenho experiência profissional na área **contábil** e estou em **transição de carreira para tecnologia**, estudando **Java, Spring Boot e APIs REST** em busca da minha primeira oportunidade como desenvolvedor.
-
-<div>
-
-### 🚀 Foco atual
-
-💻 Desenvolvendo projetos em **Java**  
-🌱 Aprendendo **Spring Boot e APIs REST**  
-🗄️ Trabalhando com **banco de dados e persistência de dados**  
-📚 Evoluindo constantemente em **boas práticas de desenvolvimento**
-
-</div>
-
-<br>
 <p align="center">
-  <img height="30" width="40" title="Java"
+Desenvolvedor Back-End Java • Spring Boot • APIs REST
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+💼 Experiência profissional na área **contábil**  
+🔄 Atualmente em transição de carreira para **Tecnologia**  
+☕ Focado em desenvolvimento **Back-End com Java**  
+📚 Estudando **Spring Boot, APIs REST e boas práticas de desenvolvimento**
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+  <img height="40" width="50" title="Java"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
-  <img height="30" width="40" title="Spring Boot"
+  <img height="40" width="50" title="Spring Boot"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 
-  <img height="30" width="40" title="MySQL"
+  <img height="40" width="50" title="MySQL"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
-  <img height="30" width="40" title="Git"
+  <img height="40" width="50" title="Git"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
-  <img height="30" width="40" title="Apache"
+  <img height="40" width="50" title="Apache Maven"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
 
-  <img height="30" width="40" title="Hibernate"
+  <img height="40" width="50" title="Hibernate"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
 
-  <img height="30" width="40" title="IntelliJ IDEA"
+  <img height="40" width="50" title="IntelliJ IDEA"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
 </p>
 
-##
+---
+
+### 📈 Atualmente estudando
+
+- Java Orientado a Objetos
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Banco de Dados SQL
+- Git e GitHub
+
+---
+
+### 🌐 Contato
 
 <div align="center"> 
   <a href="https://www.instagram.com/medicijr_/" target="_blank">
@@ -48,6 +65,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou foc
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
 </div>
+
+---
 
 <div align="center">
 
