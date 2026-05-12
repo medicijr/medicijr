@@ -19,37 +19,14 @@ Desenvolvedor Back-End Java • Spring Boot • APIs REST
 ### 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-
-<img height="40" width="50" title="Java"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-
-<img height="40" width="50" title="Spring Boot"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-
-<img height="40" width="50" title="Quarkus"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg"/>
-
-<img height="40" width="50" title="MySQL"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-
-<img height="40" width="50" title="Git"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-
-<img height="40" width="50" title="Apache Maven"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"/>
-
-<img height="40" width="50" title="Hibernate"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>
-
-<img height="40" width="50" title="IntelliJ IDEA"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
-
-<img height="40" width="50" title="Scrum"
-src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png"/>
-
-<img height="40" width="50" title="Kanban"
-src="https://cdn-icons-png.flaticon.com/512/906/906334.png"/>
-
+<img height="40" width="50" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img height="40" width="50" title="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+<img height="40" width="50" title="Quarkus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg"/>
+<img height="40" width="50" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+<img height="40" width="50" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img height="40" width="50" title="Apache Maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"/>
+<img height="40" width="50" title="Hibernate" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg"/>
+<img height="40" width="50" title="IntelliJ IDEA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
 </div>
 
 ---
